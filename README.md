@@ -3,4 +3,5 @@ Se presentan los resultados de la implementación y análisis de una red aislada
 
 Topología:
 
-![image](https://github.com/kbachan/kbachan-Primer-entorno-de-practica/assets/87587474/0f644acf-1e96-46e7-b0fd-2c61bba588b6)
+![Topología](https://github.com/kbachan/kbachan-Primer-entorno-de-practica/assets/87587474/d027bbf5-ee05-457c-a261-10b25bdbd84b)
+
